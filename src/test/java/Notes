@@ -1,0 +1,9 @@
+1 - Identifier les elements avec l'annotation FindBy
+2 - ajouter attribut driver de type WebDriver dans chaque Page (classs Java)
+3 - Generer constructeur (avec parametre WebDriver) dans chaque page (class Java)
+4 - Ajouter PageFactory.initElements dans le constructeur crée pour pouvoir acceder aux elements identifiés des pages
+5 - Creer des methodes dans chaque page (Class Java) contenant les actions des elements identifiés
+6 - Creer les features
+7 - Creer les instances des classes Java (Factory) que nous avons besoins  dans la classe de step Definition
+8 - Appeler les méthodes de la classe factory dans la classes step definition (dans les methodes générée de feature file)
+9 - Run feature
